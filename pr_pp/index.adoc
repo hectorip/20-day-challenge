@@ -2,12 +2,17 @@
 
 === Resumen
 
+Te enseña cómo puedes aprovecharte del funcionamiento del sistema financiero actual para estar del lado de los que tienen dinero. Esto naturalmente implica que obtengas el dinero de otros y no basado en trabajo sino en trucos, a veces sucios.
+
 === Lecciones
 
 
+*Principal:* La gente que tiene dinero y la que no se comportan sustancialmente diferente con respecto al dinero. Además tiene actitudes muy diferentes con respecto al dinero.
+
+---
 . Tener una empresa es mejor que actuar sólo porque las empresas tienen cualidades que los individuos no, como gastar antes de pagar impuestos.
 
-Algunos activos:
+*Algunos tipos activos*:
 
 1. Negocios que no requieren que esté ahí
 2. Acciones
@@ -52,29 +57,28 @@ Habilidades que sirven en general:
 . Buscar héroes que imitar
 . Ser generoso en enseñanzas y cosas físicas
 
-Cómoo generar ideas
+Cómo generar ideas
 
 . Cambiar de actividades
 . Consumir nueva información
-. Aprender de algquien que ha hecho lo que nosotros queremos hacer
+. Aprender de alguien que ha hecho lo que nosotros queremos hacer
 . Entrar en acción
 . Hacer siempre es mejor que no hacer
 . Es mejor buscar primero a los clientes y después generar el producto
 
-
-
 == Citas
 
 Hablando de impuestos y leyes ->
+
 "Las personas que pierden son las que no están informadas"
 
 === Accionables
 
-1. Aprender lo más que pueda de contaduría
-2. Aprender lo más que pueda de impuestos
-3. Aprender lo más que pueda de inversiones y finanzas
-4. Aprender lo mejor posible las leyes del país y cómo aplicarlas para no pagar más impuestos de los necesarios
-4. Hacer inversiones
+. Aprender lo más que pueda de contaduría
+. Aprender lo más que pueda de impuestos
+. Aprender lo más que pueda de inversiones y finanzas
+. Aprender lo mejor posible las leyes del país y cómo aplicarlas para no pagar más impuestos de los necesarios
+. Hacer inversiones
 
 === Discusión
 
@@ -83,3 +87,7 @@ Hablando de impuestos y leyes ->
 La recaudación de impuestos constituye la base del ingreso del gobierno. En una sociedad ideal un gobierno garantiza derechos de los cuáles disfrutar.
 
 Lo que sabes constituye tu mayor riqueza. Lo que no sabes constituye tu mayor riesgo.
+
+==== Hacerte de dinero necesariamente implica quitárselo a los demás.
+
+Mientras más inteligente seas para quitárselo y menos lo satanices más tendrás.
