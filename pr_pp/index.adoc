@@ -4,11 +4,76 @@
 
 === Lecciones
 
+
+. Tener una empresa es mejor que actuar sólo porque las empresas tienen cualidades que los individuos no, como gastar antes de pagar impuestos.
+
+Algunos activos:
+
+1. Negocios que no requieren que esté ahí
+2. Acciones
+3. Obligaciones de empresas <- no se que es esto
+4. Fondos
+5. Bienes raíces que se renten o aprecien
+6. Cetes y pagarés
+7. Propiedad intelectual
+8. Toda mercancía o posesión que se aprecie y tenga un mercado disponible
+
+Habilidades para hacer crecer el dinero:
+
+. Identificar oportunidades que los demás pasen por alto. Suerte + conocimiento + observación.
+. Conseguir dinero. Convencer inversionistas, compradores y prestadores.
+. Organizar personas inteligentes.
+
+Habilidades que sirven en general:
+. Ventas (Comunicación y persuasión)
+. Administración de recursos
+. Administración de personal
+. Administración de sistemas (uno mismo y familia)
+
+5 enemigos a vencer:
+
+. Miedo al fracaso o a la pérdidas
+. Cinismo -> "soy así y no puedo cambiar"
+. Pereza a enfrentarse a algo difícil o importante, la falta de acción
+. Malos hábitos
+. Arrogancia
+
+
+10 pasos para comenzar:
+
+. Tener una razón
+. Recordar que podemos elegir
+. Escoger cuidadosamente a los amigos
+. Dominar varios métodos y aprender rápido
+. Pagarse a uno mismo primero y ser disciplinado
+. Pagar bien a los profesionales que prestan servicios
+. Buscar obtener el retorno de inversión rápidamente y el mejor posible
+. Primero inversiones y luego deseos o lujos
+. Buscar héroes que imitar
+. Ser generoso en enseñanzas y cosas físicas
+
+Cómoo generar ideas
+
+. Cambiar de actividades
+. Consumir nueva información
+. Aprender de algquien que ha hecho lo que nosotros queremos hacer
+. Entrar en acción
+. Hacer siempre es mejor que no hacer
+. Es mejor buscar primero a los clientes y después generar el producto
+
+
+
+== Citas
+
+Hablando de impuestos y leyes ->
+"Las personas que pierden son las que no están informadas"
+
 === Accionables
 
 1. Aprender lo más que pueda de contaduría
 2. Aprender lo más que pueda de impuestos
 3. Aprender lo más que pueda de inversiones y finanzas
+4. Aprender lo mejor posible las leyes del país y cómo aplicarlas para no pagar más impuestos de los necesarios
 4. Hacer inversiones
 
 === Discusión
@@ -16,3 +81,5 @@
 ==== ¿Son los impuestos tan malos como el autor los pinta?
 
 La recaudación de impuestos constituye la base del ingreso del gobierno. En una sociedad ideal un gobierno garantiza derechos de los cuáles disfrutar.
+
+Lo que sabes constituye tu mayor riqueza. Lo que no sabes constituye tu mayor riesgo.
