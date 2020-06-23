@@ -1,0 +1,14 @@
+= Reto 20 libros en 20 días
+
+Este reto consiste en obtener las lecciones principales y acciones siguiente extraídas de veinte libros populares y fáciles de leer con el objetivo de incrementar la comprensión de lectura, la capacidad de extracción y la capacidad de concentración.
+
+Además los accionables pueden servir de algo. 
+
+== Selección de libros
+
+La selección de libros fue basada en una pieza publicitaria random que promocionaba 20 resúmenes de libros populares sobre mejor personal. Algunos libros pueden parecer basura, pero aún así hay algo que aprender de ellos. Además esto es un ejercicio crítico.
+
+== Los resúmenes
+
+1. link:/pr_pp/index.adoc[Padre Rico, Padr Pobre]
+2. 
