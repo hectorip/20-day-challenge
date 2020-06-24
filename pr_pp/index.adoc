@@ -10,6 +10,9 @@ Te enseña cómo puedes aprovecharte del funcionamiento del sistema financiero a
 *Principal:* La gente que tiene dinero y la que no se comportan sustancialmente diferente con respecto al dinero. Además tiene actitudes muy diferentes con respecto al dinero.
 
 ---
+
+Aprende lo más que puedas de cómo funciona el dinero para poder dominar al sistema.
+
 . Tener una empresa es mejor que actuar sólo porque las empresas tienen cualidades que los individuos no, como gastar antes de pagar impuestos.
 
 *Algunos tipos activos*:
@@ -23,19 +26,20 @@ Te enseña cómo puedes aprovecharte del funcionamiento del sistema financiero a
 7. Propiedad intelectual
 8. Toda mercancía o posesión que se aprecie y tenga un mercado disponible
 
-Habilidades para hacer crecer el dinero:
+==== Habilidades para hacer crecer el dinero:
 
 . Identificar oportunidades que los demás pasen por alto. Suerte + conocimiento + observación.
 . Conseguir dinero. Convencer inversionistas, compradores y prestadores.
 . Organizar personas inteligentes.
 
-Habilidades que sirven en general:
+==== Habilidades que sirven en general:
+
 . Ventas (Comunicación y persuasión)
 . Administración de recursos
 . Administración de personal
 . Administración de sistemas (uno mismo y familia)
 
-5 enemigos a vencer:
+==== 5 enemigos a vencer
 
 . Miedo al fracaso o a la pérdidas
 . Cinismo -> "soy así y no puedo cambiar"
@@ -44,7 +48,7 @@ Habilidades que sirven en general:
 . Arrogancia
 
 
-10 pasos para comenzar:
+==== 10 ingredientes para comenzar
 
 . Tener una razón
 . Recordar que podemos elegir
@@ -57,7 +61,7 @@ Habilidades que sirven en general:
 . Buscar héroes que imitar
 . Ser generoso en enseñanzas y cosas físicas
 
-Cómo generar ideas
+==== Cómo generar ideas
 
 . Cambiar de actividades
 . Consumir nueva información
@@ -66,11 +70,17 @@ Cómo generar ideas
 . Hacer siempre es mejor que no hacer
 . Es mejor buscar primero a los clientes y después generar el producto
 
+
+==== Conocimiento
+
+Lo que sabes constituye tu mayor riqueza. Lo que no sabes constituye tu mayor riesgo.
+
 == Citas
 
 Hablando de impuestos y leyes ->
 
 "Las personas que pierden son las que no están informadas"
+
 
 === Accionables
 
@@ -80,13 +90,14 @@ Hablando de impuestos y leyes ->
 . Aprender lo mejor posible las leyes del país y cómo aplicarlas para no pagar más impuestos de los necesarios
 . Hacer inversiones
 
+
+
 === Discusión
 
 ==== ¿Son los impuestos tan malos como el autor los pinta?
 
 La recaudación de impuestos constituye la base del ingreso del gobierno. En una sociedad ideal un gobierno garantiza derechos de los cuáles disfrutar.
 
-Lo que sabes constituye tu mayor riqueza. Lo que no sabes constituye tu mayor riesgo.
 
 ==== Hacerte de dinero necesariamente implica quitárselo a los demás.
 
