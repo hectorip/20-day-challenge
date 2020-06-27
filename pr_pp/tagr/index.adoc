@@ -1,17 +1,22 @@
-= Think and Grow Rich
+== Think and Grow Rich
 
-== Resumen
+=== Resumen
 
 Es un libro con un montón de entrevistas hacia gente rica acerca de cómo "lo lograron".
 
-== Lecciones
+=== Lecciones
 
 -> Todo comienza con un deso intenso ("burning desire"). Si no lo tienes es probable que no logres mucho.
 -> Debes convecerte a tí mismo de ser capaz de lograr lo que te propusiste.
 
-== Accionables
+=== Accionables
 
-== Discusión
+1. Crea un objetivo detallado sobre lo que quieres lograr, *escríbelo*
 
-== Conclusión
+=== Discusión
+
+-> El autor pasa de cosa bastante lógicas a cosas bastante locas, tal vez como ejemplos pero algunos sacan de onda.
+
+
+=== Conclusión
 
