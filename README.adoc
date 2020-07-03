@@ -10,5 +10,5 @@ La selección de libros fue basada en una pieza publicitaria random que promocio
 
 == Los resúmenes
 
-1. link:/pr_pp/index.adoc[Padre Rico, Padr Pobre]
-2. 
+1. link:/pr_pp/index.adoc[Padre Rico, Padre Pobre]
+2. link:/tagr/index.adoc[Think and Grow Rich]
